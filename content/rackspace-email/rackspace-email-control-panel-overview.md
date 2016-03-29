@@ -57,13 +57,9 @@ about options are provided.
 
 - **Mailboxes** - Add new mailboxes for your domain.
 - **Aliases** - Add an alias for any active mailbox on your domain.
-- **Group Lists** - Create a group list for users in your domain.
 - **Mobile Sync** - Synchronize your mail, contacts, and calendar to
     their mobile devices.
-- **Archiving** - Archive all incoming and outgoing email for
-    your domain.
-- **Restores** - Restore an active or deleted mailbox to a specific
-    date (30 days).
+- **Group Lists** - Create a group list for users in your domain.
 - **Settings** - Specify values for folder cleanup, storage, access
     rights, and Webmail settings.
 
