@@ -60,10 +60,6 @@ about options are provided.
 - **Group Lists** - Create a group list for users in your domain.
 - **Mobile Sync** - Synchronize your mail, contacts, and calendar to
     their mobile devices.
-- **Archiving** - Archive all incoming and outgoing email for
-    your domain.
-- **Restores** - Restore an active or deleted mailbox to a specific
-    date (30 days).
 - **Settings** - Specify values for folder cleanup, storage, access
     rights, and Webmail settings.
 
@@ -71,37 +67,19 @@ about options are provided.
 
 - **Filter Settings** - Control your domain spam settings or
     individual mailbox settings such as spam handling.
-- **Edit Blacklists** - Control domain or individual mailbox
+- **Blacklists** - Control domain or individual mailbox
     blacklists settings.
-- **Edit Safelists** - Control domain or individual mailbox
+- **Safelists** - Control domain or individual mailbox
     blacklists settings.
-- **Blacklists / Safelists** - Search for users on blacklists
-    or safelists.
-
-#### Reports
-
-- **Domain Details** - Get a summary of your domain services
-    and products.
-- **Mailbox Details** - Get a summary of your domains mailboxes.
-- **Mail Forwarding** - See which mailboxes on your domains have
-    forwarding enabled.
-- **Email Statistics** - Get statistics regarding email traffic, spam,
-    and IMAP connectivity.
 
 #### Collaboration
 
 - **Company Directory** - Manage your domain's company contacts.
 - **Shared Calendar** - Manage users to share their calendars.
-- **Sync** - Synchronize your contacts and calendar to your
-    mobile device.
 
 #### Upgrades
 
 - **Email Hosting** - Upgrade your services with Rackspace Email.
-- **Cloud Drive & Server Backup** - Add the Cloud Drive and Server
-    Backup services to your domain.
-- **SharePoint** - Enable your free 250 MB of the SharePoint service
-    for your domain.
 
 ### News & Alerts section
 
