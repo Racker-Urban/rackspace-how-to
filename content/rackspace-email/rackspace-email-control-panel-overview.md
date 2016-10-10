@@ -62,8 +62,6 @@ about options are provided.
     their mobile devices.
 - **Archiving** - Archive all incoming and outgoing email for
     your domain.
-- **Restores** - Restore an active or deleted mailbox to a specific
-    date (30 days).
 - **Settings** - Specify values for folder cleanup, storage, access
     rights, and Webmail settings.
 
